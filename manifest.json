@@ -1,9 +1,9 @@
 {
-	"name": "Cristian Martínez Web",
-	"short_name": "Cristian Martínez PWA",
+	"name": "Proyect-JS",
+	"short_name": "Proyect-JS",
 	"description": "Prueba de aplicación responsive y aplicacion web progresiva de Cristian Martínez",
 	"background_color": "#FFF",
-	"theme_color": "#FB314E",
+	"theme_color": "#2ECC71",
 	"orientation": "portrait",
 	"display": "standalone",
 	"start_url": "./index.html?utm_source=web_app_manifest",
