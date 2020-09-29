@@ -2,7 +2,7 @@
 	"name": "Proyect-JS",
 	"short_name": "Proyect-JS",
 	"description": "Prueba de aplicación responsive y aplicacion web progresiva de Cristian Martínez",
-	"background_color": "#FFF",
+	"background_color": "#00283D",
 	"theme_color": "#0085CA",
 	"orientation": "portrait",
 	"display": "standalone",
