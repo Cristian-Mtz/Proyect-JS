@@ -186,6 +186,10 @@ footer .subheader{
 		float: none;
 		margin: 0px auto;
 	}
+	.img4{
+	width: 100%;
+	heigth: 100%;
+	}
 	#menu{
 		float: none;
 		margin: 0px auto;
