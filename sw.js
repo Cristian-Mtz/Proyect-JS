@@ -14,17 +14,8 @@ var urlsToCache = [
 	'./img/facebook.png',
 	'./img/instagram.png',
 	'./img/twitter.png',
-	'./img/favicon.png',
-	'./img/favicon-1024.png',
-	'./img/favicon-512.png',
-	'./img/favicon-384.png',
-	'./img/favicon-256.png',
-	'./img/favicon-192.png',
-	'./img/favicon-128.png',
-	'./img/favicon-96.png',
-	'./img/favicon-64.png',
-	'./img/favicon-32.png',
-	'./img/favicon-36.png'
+	'./img/Logo4.PNG',
+	'./img/Logo6.PNG'
 ];
 
 //Evento Install
