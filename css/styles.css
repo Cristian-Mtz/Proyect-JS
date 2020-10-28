@@ -31,13 +31,12 @@ body{
 
 #logo{
 	width: 63%;
-	heigth: 30%;
+	heigth: 10%;
 	float: left;
 }
-#logo h1{
-	font-weight: bold;
-	font-size: 25px;
-	color: #0085CA;
+.img4{
+	width: 100%;
+	heigth: 100%;
 }
 
 #menu{
