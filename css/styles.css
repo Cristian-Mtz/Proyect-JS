@@ -30,8 +30,8 @@ body{
 }
 
 #logo{
-	width: 63%;
-	height: 10%;
+	width: 100px;
+	height: 133px;
 	float: left;
 }
 .img4{
@@ -41,7 +41,8 @@ body{
 
 #menu{
 	width: 380px;
-	float: left;
+	float: right;
+	margin: 15px;
 }
 
 #menu ul li{
